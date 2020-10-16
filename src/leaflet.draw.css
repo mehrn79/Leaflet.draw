@@ -4,6 +4,7 @@
 
 .leaflet-draw-section {
 	position: relative;
+	display: none;
 }
 
 .leaflet-draw-toolbar {
